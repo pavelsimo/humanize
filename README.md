@@ -1,4 +1,4 @@
-# humanize
+# humanize skill
 
 A skill for agents that strips AI writing patterns from text and makes it sound natural and human — based on Wikipedia's "Signs of AI writing" guide.
 
