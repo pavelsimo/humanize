@@ -6,7 +6,7 @@ trigger: /humanize
 
 # humanize skill
 
-A Claude Code skill that identifies and removes AI writing patterns to make text sound natural and human — based on Wikipedia's "Signs of AI writing" guide.
+A skill that identifies and removes AI writing patterns to make text sound natural and human — based on Wikipedia's "Signs of AI writing" guide.
 
 ## task
 
